@@ -1,0 +1,6 @@
+.truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/* Empty. Add your own CSS if you like */
